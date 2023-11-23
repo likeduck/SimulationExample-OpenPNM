@@ -14,4 +14,4 @@ OpenPNM的可视化模块做的非常好！PoreSpy有许多应用于2D图像的�
 
 3.<PNM_Kabs>：解压pbz2文件，设置了StokesFlow以进行压力可视化并预测渗透率。
 
-4.<SNOW>：导入2D/3D.tif图像，使用SNOW算法提取其PNM并可视化。
+4.<SNOW>: 导入2D/3D.tif图像，使用SNOW算法提取其PNM并可视化。
